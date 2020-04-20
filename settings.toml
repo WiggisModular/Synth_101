@@ -1,0 +1,7 @@
+[[files]]
+type="beamer"
+converter="pandoc"
+infile="Synth101_de.md"
+outfile="Synth101_de.pdf"
+header="beamer_header.tex"
+pdfengine="xelatex" # pdflatex, lualatex, xelatex, latexmk, tectonic, wkhtmltopdf, weasyprint, prince, context, and pdfroff
